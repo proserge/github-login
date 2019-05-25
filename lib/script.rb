@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require_relative 'github_loginer.rb'
 
 # Fill login and password strings
